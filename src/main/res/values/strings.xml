@@ -6,8 +6,10 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Historical Places</string>
-    <string name="menu_gallery">Shopping</string>
+    <string name="menu_historical">Historical Places</string>
+    <string name="menu_shopping">Shopping</string>
+    <string name="menu_sport">Sport</string>
+    <string name="menu_food">Food</string>
 
     <string name="roman_museum">Graeco Roman Museum</string>
     <string name="roman_desc">The Graeco-Roman Museum is an archaeological museum located
@@ -73,5 +75,19 @@
         entertainment destination- Magic Planet- City Centre Alexandria is the biggest shopping mall
         in the city. It provides an international shopping experience to the residents and
         visitors of Alexandria.</string>
+
+    <string name="alex_stadium">Alexandria Stadium</string>
+    <string name="alex_stadium_desc">Alexandria Stadium (Arabic: إستاد الأسكندرية‎) is a multi-purpose
+        stadium in Alexandria, Egypt. It is currently used mostly for football matches, and was used
+        for the 2006 African Cup of Nations. The stadium is the oldest stadium in Egypt and Africa,
+        being built in 1929. The stadium holds 20,000 people after recent remodeling.</string>
+
+    <string name="abu_nasser">Koshari Abu-Nasser</string>
+    <string name="abu_nasser_desc">Kushari, also Koshari (Egyptian Arabic: كشري‎, [ˈkoʃæɾi]),
+        is an Egyptian dish originally made in the 19th century, made of rice, macaroni, and lentils
+        mixed together, topped with a spiced tomato sauce and garlic vinegar and garnished with
+        chickpeas and crispy fried onions. Sprinklings of garlic juice, garlic vinegar and hot
+        sauce are optional.\nAbu Nasser is one of the best Kushari restaurants in Alexandria located
+        in Raml-Station in front of the Alexandria\'s remarkable electrical tram AKA trolley.</string>
 
 </resources>

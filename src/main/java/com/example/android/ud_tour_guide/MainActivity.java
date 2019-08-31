@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity
         FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
         ft.replace(R.id.content_frame, new HistoricalFragment());
         ft.commit();
-        getSupportActionBar().setTitle("Historical Locations");
+        getSupportActionBar().setTitle(getString(R.string.menu_historical));
     }
 
     @Override
@@ -83,11 +83,19 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_historical) {
             fragment = new HistoricalFragment();
             navigationView.setCheckedItem(R.id.nav_historical);
-            toolbar.setTitle("Historical Locations");
+            toolbar.setTitle(getString(R.string.menu_historical));
         } else if (id == R.id.nav_shopping) {
             fragment = new ShoppingFragment();
             navigationView.setCheckedItem(R.id.nav_shopping);
-            toolbar.setTitle("Shopping Locations");
+            toolbar.setTitle(getString(R.string.menu_shopping));
+        } else if (id == R.id.nav_food) {
+            fragment = new FoodFragment();
+            navigationView.setCheckedItem(R.id.nav_food);
+            toolbar.setTitle(getString(R.string.menu_food));
+        } else if (id == R.id.nav_sport) {
+            fragment = new SportFragment();
+            navigationView.setCheckedItem(R.id.nav_sport);
+            toolbar.setTitle(getString(R.string.menu_sport));
         }
 
         if (fragment != null) {

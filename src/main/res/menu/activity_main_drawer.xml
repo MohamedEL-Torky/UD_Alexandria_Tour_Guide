@@ -7,11 +7,19 @@
         <item
             android:id="@+id/nav_historical"
             android:icon="@drawable/ic_menu_historical"
-            android:title="@string/menu_home" />
+            android:title="@string/menu_historical" />
         <item
             android:id="@+id/nav_shopping"
             android:icon="@drawable/ic_menu_shopping"
-            android:title="@string/menu_gallery" />
+            android:title="@string/menu_shopping" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_menu_food"
+            android:title="@string/menu_food" />
+        <item
+            android:id="@+id/nav_sport"
+            android:icon="@drawable/ic_menu_sport"
+            android:title="@string/menu_sport" />
     </group>
 
 
