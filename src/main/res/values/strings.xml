@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Alexandria Tour Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Tour Guide</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Historical Places</string>
+    <string name="menu_gallery">Shopping</string>
+
+    <string name="roman_museum">Graeco Roman Museum</string>
+    <string name="roman_desc">The Graeco-Roman Museum is an archaeological museum located
+        in Alexandria, Egypt. Erected in 1892, it was first built in a five-room apartment,
+        inside one small building on Rosetta Street (later Avenue Canope and now Horriya).
+        In 1895, it was transferred to another, larger building near Gamal Abdul Nasser Street.
+        The museum contains several pieces dating from the Graeco-Roman
+        (Ptolemaic) era in the 3rd century BC, such as a sculpture of Apis in black granite,
+        the sacred bull of the Egyptians, mummies, sarcophagus, tapestries, and other objects
+        offering a view of Greco-Roman civilization in contact with ancient Egypt.\n\nThe museum\'s
+        collection is the product of donations from wealthy Alexandrians as well as of excavations
+        led by successive directors of the institution, both within the town and in its environs.
+        Certain other objects have come from the Organization of Antiquities at Cairo
+        (particularly those of the Pharaonic period) and from various digs undertaken
+        at the beginning of the century in Fayoum and at Benhasa. Housed within a
+        historic building whose beautiful neoclassical facade of six columns
+        and pediment bears the large Greek inscription ‘MOYΣEION’ (MOUSEION).
+        The museum consists of 27 halls and an attractive garden,
+        which offer an excellent introduction to Egypt\'s Greco-Roman period.\n\nThe museum has been
+        closed for renovations since 2005. As of June 2017,
+        the building was still surrounded by scaffolding.</string>
+
+    <string name="amphitheater">Ancient Roman Amphitheater</string>
+    <string name="amphitheater_desc">Roman Amphitheatre or Roman Theatre is located in the central
+        region of Alexandria city at Kom el-Dikka. Bordered by the Horrya Street in the north,
+        Nabi Daniel Street in west, Abdel Moneim Street in south and Saphia Zaghloul
+        Street from the eastern side, Roman Theatre is one of the symbols of Alexandria city.\n\n
+        Basically Amphitheatre means double theatre and were grand and impressive in structure.
+        Usually built in semi-circular shape, Amphitheatre was an open-airtheatre with no curtains on the stage.
+        The Roman Theatre of Egypt is modest in size and most of the part of the structure
+        is in ruined condition but still it is an excellent ancient structure of Roman period of Egypt.
+        The theatre also consists of numerous galleries erected crudely.</string>
+
+    <string name="heracleion">Sunken City of Heracleion</string>
+    <string name="heracleion_desc">Heracleion (Ancient Greek: Ἡράκλειον), also known by its
+        Egyptian name Thonis (Ancient Egyptian: Tȝ-ḥn.t, Coptic: ⲧϩⲱⲛⲓ, Ancient Greek: Θῶνις)
+        and sometimes called Thonis-Heracleion, was an ancient Egyptian city located near
+        the Canopic Mouth of the Nile, about 32 km northeast of Alexandria. Its ruins are located
+        in Abu Qir Bay, currently 2.5 km off the coast, under 10 m (30 ft) of water.\n\n
+        A stele found on the site indicates that it was one single city known by both its Egyptian and
+        Greek names. Its legendary beginnings go back to as early as the 12th century BC, and it
+        is mentioned by ancient Greek historians. Its importance grew particularly during the waning
+        days of the Pharaohs.</string>
+
+    <string name="san_stefano">San Stefano Mall and Hotel</string>
+    <string name="san_stefano_desc">San Stefano (Arabic: سان إستفانو‎) is a neighborhood in
+        Alexandria, Egypt. The area was known for a landmark hotel-casino that was demolished
+        in the late 1990s. That hotel was replaced by the San Stefano Grand Plaza,
+        a hotel-apartment-shopping mall complex that includes a Four Seasons luxury hotel,
+        opened in 2007[1] and apartments, housed in the tallest building
+        in Alexandria (135 m (443 ft))</string>
+
+    <string name="city_center">Alexandria City Center</string>
+    <string name="city_center_desc">Suitably located on the Alexandria Cairo Desert Road,
+        opposite to the Alexandria International Park, City Centre Alexandria is just 15
+        minutes from downtown.\n\n
+        The landmark shopping destination opened in January 2003 to offer its customers a unique
+        shopping and entertainment experience. The Centre has recently completed a massive
+        extension programme that has increased the total number of retail stores in the
+        mall from 97 to over 170, spread over a trading area of 60,370 square metres.\n\n
+        With an eclectic mix of world class brands and retailers, a 14,771 square metre Carrefour
+        Hypermarket, Vox Cinemas, an international food court and the popular family
+        entertainment destination- Magic Planet- City Centre Alexandria is the biggest shopping mall
+        in the city. It provides an international shopping experience to the residents and
+        visitors of Alexandria.</string>
+
+</resources>
